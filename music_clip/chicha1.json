@@ -1,5 +1,5 @@
 [
-  {"url":"music_clip/audio1.mp3","type":"audio","bank":"music_clip","n":0},
-  {"url":"music_clip/audio2.mp3","type":"audio","bank":"music_clip","n":1},
-  {"url":"music_clip/audio3.mp3","type":"audio","bank":"music_clip","n":2}  
+  {"url":"music_clip/audio1.mp3","type":"audio","bank":"chicha1","n":0},
+  {"url":"music_clip/audio2.mp3","type":"audio","bank":"chicha2","n":1},
+  {"url":"music_clip/audio3.mp3","type":"audio","bank":"chicha3","n":2}  
 ]
