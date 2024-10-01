@@ -1,5 +1,5 @@
 [
-  {"url":"","type":"audio","bank":"","n":0},
-  {"url":"","type":"audio","bank":"","n":0},
-  {"url":"","type":"audio","bank":"","n":0},  
+  {"url":"music_clip/audio1.mp3","type":"audio","bank":"music_clip","n":0},
+  {"url":"music_clip/audio2.mp3":"type:"audio","bank":"music_clip","n":1},
+  {"url":"music_clip/audio3.mp3":"type":"audio","bank":"music_clip","n":2},  
 ]
